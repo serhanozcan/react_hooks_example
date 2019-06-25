@@ -1,3 +1,4 @@
+![Screenshot](https://raw.githubusercontent.com/serhanozcan/react_hooks_example/master/public/ss.png)
 Bu proje create-react-app yüklemesi üzerinde çalışmaktadır. [Create React App](https://github.com/facebook/create-react-app).
 
 ### Denemek için;
